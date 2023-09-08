@@ -24,4 +24,3 @@ resource "local_file" "example2" {
   content  = var.example2
   filename = "example2.txt"
 }
-
